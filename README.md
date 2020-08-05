@@ -1,5 +1,5 @@
 ## About me
-#### My name is Callum. I am a postgraduate developer with a first class degree in Computer Science. I am 22, and my favorite language is C# which I have been using since college in 2016.
+#### My name is Callum, I am a postgraduate developer with a first class degree in Computer Science. I am 22, and my favorite language is C# which I have been using since college in 2016.
 <!--
 **CallyyllaC/CallyyllaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
