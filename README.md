@@ -1,18 +1,6 @@
 ## About me
 #### My name is Callum, I am a postgraduate developer with a first class degree in Computer Science. I am 22, and my favorite language is C# which I have been using since college in 2016.
-<!--
-**CallyyllaC/CallyyllaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Where to find me
 
   [![linkedin](https://img.icons8.com/fluent/50/000000/linkedin.png)](https://www.linkedin.com/in/callum-d-03168515b/) &nbsp;&nbsp;
@@ -28,70 +16,70 @@ Here are some ideas to get you started:
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>C#</center></b></span> 
+<span><b><center>C#</center></b></span><br>
 <img src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
+<span><b><center>C++</center></b></span> <br>
 <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span>
+<span><b><center>Python</center></b></span><br>
 <img src="https://img.icons8.com/ios/50/000000/python.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span>
+<span><b><center>SQL</center></b></span><br>
 <img src="https://img.icons8.com/wired/50/000000/sql.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
+<span><b><center>Git</center></b></span> <br>
 <img src="https://img.icons8.com/ios/50/000000/git.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
+<span><b><center>HTML</center></b></span> <br>
 <img src="https://img.icons8.com/wired/50/000000/html-5.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
+<span><b><center>JavaScript</center></b></span> <br>
 <img src="https://img.icons8.com/wired/50/000000/javascript.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Node.js</center></b></span> 
+<span><b><center>Node.js</center></b></span> <br>
 <img src="https://img.icons8.com/windows/50/000000/nodejs.png"/>
 </td>
 
 
 
 <td align="center" width="20%">
-<span><b><center>Windows</center></b></span> 
+<span><b><center>Windows</center></b></span> <br>
 <img src="https://img.icons8.com/windows/50/000000/windows-10.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Linux</center></b></span> 
+<span><b><center>Linux</center></b></span> <br>
 <img src="https://img.icons8.com/wired/64/000000/linux.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Visual Studio</center></b></span> 
+<span><b><center>Visual Studio</center></b></span> <br>
 <img src="https://img.icons8.com/windows/50/000000/visual-studio.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Unity</center></b></span> 
+<span><b><center>Unity</center></b></span> <br>
 <img src="https://img.icons8.com/wired/50/000000/unity.png"/>
 </td>
 </tr>
