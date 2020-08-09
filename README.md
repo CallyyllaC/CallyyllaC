@@ -89,4 +89,6 @@
 
 ## My Stats
 
-[![Callum's github stats](https://github-readme-stats.vercel.app/api?username=callyyllac&show_icons=true)](https://github.com/callyyllac)
+[![Callum's github stats](https://github-readme-stats.vercel.app/api?username=callyyllac&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)](https://github.com/callyyllac)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callyyllac&theme=buefy&count_private=true)](https://github.com/callyyllac/github-readme-stats)<br>
+(Top Languagess does not include any private repositories)
