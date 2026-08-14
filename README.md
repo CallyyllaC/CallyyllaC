@@ -1,94 +1,42 @@
-## About me
-#### My name is Callum, I am a postgraduate developer with a first class degree in Computer Science. I am 22, and my favorite language is C# which I have been using since college in 2016.
+# Cali
 
-## Where to find me
+I'm a software engineer and computer scientist, currently working mainly within the security sector. Outside work, I build practical tools around problems that existing software handles poorly or overcomplicates, usually with C#/.NET or Python.
 
-  [![linkedin](https://img.icons8.com/fluent/50/000000/linkedin.png)](https://www.linkedin.com/in/callum-d-03168515b/) &nbsp;&nbsp;
-  [![website](https://img.icons8.com/wired/50/000000/domain.png)](https://callyyllac.github.io/) &nbsp;&nbsp;
-  [![github](https://img.icons8.com/wired/50/000000/github.png)](https://github.com/callyyllac) &nbsp;&nbsp;
-  [![email](https://img.icons8.com/wired/50/000000/email.png)](mailto:cgainsborough@protonmail.ch)
+My independent projects focus on desktop applications, visualisation, telemetry, system integration, and hardware/software systems across Windows and Linux.
 
+[Website](https://awoo.ltd)
 
-## What can I do?
+LinkedIn is the best public contact route; other contact details are available on request.
 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>C#</center></b></span><br>
-<img src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png"/>
-</td>
+## Featured Projects
 
-<td align="center" width="20%">
-<span><b><center>C++</center></b></span> <br>
-<img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png"/>
-</td>
+### [Desktop Shrine](https://github.com/CallyyllaC/Desktop-Shrine)
 
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span><br>
-<img src="https://img.icons8.com/ios/50/000000/python.png"/>
-</td>
-</tr>
+A modular Windows runtime for turning media, games, desktop audio, and hardware telemetry into ambient LCD and RGBW output. Its plugin architecture keeps new inputs and devices isolated instead of growing a monolithic application.
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span><br>
-<img src="https://img.icons8.com/wired/50/000000/sql.png"/>
-</td>
+`C#` | `.NET 10` | `plugin architecture` | `audio visualisation` | `hardware telemetry`
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> <br>
-<img src="https://img.icons8.com/ios/50/000000/git.png"/>
-</td>
+[Repository](https://github.com/CallyyllaC/Desktop-Shrine) | [Releases](https://github.com/CallyyllaC/Desktop-Shrine/releases)
 
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> <br>
-<img src="https://img.icons8.com/wired/50/000000/html-5.png"/>
-</td>
-</tr>
+### [The Ember Deck](https://github.com/CallyyllaC/The-Ember-Deck)
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> <br>
-<img src="https://img.icons8.com/wired/50/000000/javascript.png"/>
-</td>
+A Raspberry Pi 5 media console built inside a dead vintage TV/radio/cassette unit, combining Plexamp with physical controls, dual displays, metering, and addressable lighting. Supervised Python workers keep media sources, UI, audio processing, and hardware I/O separate.
 
-<td align="center" width="20%">
-<span><b><center>Node.js</center></b></span> <br>
-<img src="https://img.icons8.com/windows/50/000000/nodejs.png"/>
-</td>
+`Python` | `Raspberry Pi` | `Textual` | `GPIO / I2C` | `audio visualisation`
+
+[Repository](https://github.com/CallyyllaC/The-Ember-Deck)
+
+## Technologies
+
+**Languages:** C# | C++ | Python
+
+**Frameworks and platforms:** .NET | WPF | Textual | Windows | Linux | Raspberry Pi
+
+**Technical areas:** desktop application development | custom tooling | hardware/software integration | telemetry | audio and data visualisation | APIs and system integration | Robotics
 
 
+## Current Interests
 
-<td align="center" width="20%">
-<span><b><center>Windows</center></b></span> <br>
-<img src="https://img.icons8.com/windows/50/000000/windows-10.png"/>
-</td>
-</tr>
+I'm especially interested in modular .NET desktop software and custom tools that combine telemetry, real-time visualisation, system integration, or physical controls and displays.
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Linux</center></b></span> <br>
-<img src="https://img.icons8.com/wired/64/000000/linux.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Visual Studio</center></b></span> <br>
-<img src="https://img.icons8.com/windows/50/000000/visual-studio.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Unity</center></b></span> <br>
-<img src="https://img.icons8.com/wired/50/000000/unity.png"/>
-</td>
-</tr>
-
-</tbody>
-</table>
-
-## My Stats
-
-[![Callum's github stats](https://github-readme-stats.vercel.app/api?username=callyyllac&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)](https://github.com/callyyllac)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callyyllac&theme=buefy&count_private=true)](https://github.com/callyyllac/github-readme-stats)<br>
-(Top Languagess does not include any private repositories)
+Older experiments and university projects remain available in my [repositories](https://github.com/CallyyllaC?tab=repositories).
