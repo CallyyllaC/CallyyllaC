@@ -6,8 +6,6 @@ My independent projects focus on desktop applications, visualisation, telemetry,
 
 [Website](https://awoo.ltd)
 
-LinkedIn is the best public contact route; other contact details are available on request.
-
 ## Featured Projects
 
 ### [Desktop Shrine](https://github.com/CallyyllaC/Desktop-Shrine)
